@@ -10,11 +10,4 @@ Welcome to Chastina's Blog's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   my_first_blog
