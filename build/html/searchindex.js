@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index","my_first_blog"],envversion:53,filenames:["index.rst","my_first_blog.rst"],objects:{},objnames:{},objtypes:{},terms:{content:0,first:0,hello:0,world:0},titles:["Welcome to Chastina\u2019s Blog\u2019s documentation!","My First Blog"],titleterms:{blog:[0,1],chastina:0,document:0,first:1,hello:1,welcom:0,world:1}})
